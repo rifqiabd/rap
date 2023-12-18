@@ -1,0 +1,83 @@
+body{
+    font-family: Montserrat!important;
+    color: black!important;
+}
+.m-menu__link-text, .m-aside-menu.m-aside-menu--skin-dark .m-menu__nav > .m-menu__item > .m-menu__heading .m-menu__link-text, .m-aside-menu.m-aside-menu--skin-dark .m-menu__nav > .m-menu__item > .m-menu__link .m-menu__link-text{
+    color:#e4e2ff;
+}
+.m-aside-menu.m-aside-menu--skin-dark .m-menu__nav > .m-menu__item > .m-menu__heading .m-menu__link-icon, .m-aside-menu.m-aside-menu--skin-dark .m-menu__nav > .m-menu__item > .m-menu__link .m-menu__link-icon{
+    color:#c8c4ff;;
+}
+.m-aside-menu .m-menu__nav > .m-menu__item.m-menu__item--active > .m-menu__link .m-menu__link-icon{
+    color:#716aca !important;
+}
+.m-stack--demo.m-stack--ver .m-stack__item, .m-stack--demo.m-stack--hor .m-stack__demo-item{
+    border:0px;
+    background: none;
+}
+.m-aside-menu .m-menu__nav > .m-menu__item > .m-menu__link > .m-menu__link-icon{
+    display: table-cell;
+}
+.m-aside-menu .m-menu__nav > .m-menu__item > .m-menu__link > .m-menu__link-title, .m-aside-menu .m-menu__nav > .m-menu__item > .m-menu__link > .m-menu__link-text{
+    display: table-cell;
+    padding-left: 1.25rem;
+}
+.m-aside-menu .m-menu__nav > .m-menu__item > .m-menu__link{
+    text-align: left;
+    padding:1.25rem 2rem;
+}
+.m-aside-menu .m-menu__nav{
+    padding:20px 0 30px 0;
+}
+.m-nav.m-nav--inline > .m-nav__item > .m-nav__link{
+    padding:0px;
+}
+.m-aside-menu .m-menu__nav > .m-menu__item > .m-menu__link > .m-menu__link-title, .m-aside-menu .m-menu__nav > .m-menu__item > .m-menu__link > .m-menu__link-text{
+    text-align:left;
+}
+/*.m-aside-menu .m-menu__nav > .m-menu__item.m-menu__item--active > .m-menu__link{
+    background:#5a55a5;
+}
+.m-aside-menu .m-menu__nav > .m-menu__item.m-menu__item--active > .m-menu__link .m-menu__link-text{
+    color:white!important;
+}*/
+.btn.btn-warning:hover{
+    color:white!important;
+}
+.btn-warning{
+    color:white!important;
+}
+.m-portlet__head-text{
+    font-size:1.75rem!important;
+}
+th{
+    text-align: center;
+}
+.form-control[disabled], .form-control[readonly]{
+    background : #eee!important;
+    opacity: 1;
+}
+input, select, textarea{
+    border : 1px solid #aeafb1!important;
+}
+.btn.btn-primary.btn-file{
+    border-radius: 60px;
+}
+.select2-search__field{
+    border: 0;
+}
+input.select2-search__field{
+    border: 0!important;
+}
+textarea[readonly]{
+     background : #eee!important;
+    opacity: 1;   
+}
+
+.form-control.file-caption.kv-fileinput-caption{
+    border-right: 0px solid black;
+    border-bottom: 2px solid grey;
+}
+.select2-container--default .select2-selection--single{
+    border:1px solid grey!important;
+}

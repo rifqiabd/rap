@@ -1,0 +1,87 @@
+
+html{
+	background-color:white;
+	
+}
+
+
+.kotak{
+	border: solid 1px white;
+	padding: 10px;
+	margin-bottom:10px;
+	
+	background:rgba(255,255,255,0.8);
+}
+
+.kotak_full{
+	border: solid 1px white;
+	padding: 10px;
+	margin-bottom:10px;
+	height:400px;
+	background:rgba(255,255,255,0.8);
+}
+
+.panel panel-body{
+	background:rgba(255,255,255,0.4);
+}
+
+.bawah{
+	
+	color:blue;	
+}
+
+.konten{
+	height:680px;
+	
+}
+
+.img-thumbnail  {
+	color: #FFFFFF;
+	background-color: #FFFFFF;
+	text-align: center;
+	vertical-align: middle;
+	padding: 5px;
+	width:50px;
+	height:50px;
+	overflow: hidden;
+	display: inline-block;
+	border:2px solid #f7f7f7;
+	
+}
+
+.bgMasuk {
+	width:100%;
+	height:800px;
+
+}
+
+.foot{
+	/* background-color:#29527b; */
+	
+	
+	padding-bottom:10px;
+	color:#336699;
+	margin-top:30px;
+}
+
+.table tbody>tr>td.vert-align {
+	vertical-align: middle;
+}
+
+.table thead>tr>th{
+	text-align: center;
+}
+.log{
+	margin-top:150px;
+}
+
+th{
+	text-align: center;
+}
+
+.active1{
+	border-top:solid 2px #3C8CA5;
+	background-color:white;
+}
+
+
